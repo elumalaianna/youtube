@@ -11,7 +11,7 @@
 
 }
 .block{
-     height: 40px;
+     height: 80px;
      font-size: 20px;
      left: 10px;
      top: 10px;
@@ -40,20 +40,39 @@
     bottom: 5px;
     
 }
-.k{
-   padding: 0px;
-   overflow-y: scroll;
-   s
-   height: 1020px;
-   margin-top: 40px;
-
-   
+#malai:hover{
+    background-color:rgb(33,33,33) ;
+    border-radius: 15px;
 }
-.k ul{
+.home{
+    position: relative;
+    padding: 10px;
 
-   
 }
-.k ul li{
-    padding: 20px;
+.fa-solid{
+  color: white;
+  margin-left: 20px;
+}
+.home{
+    padding: 10px;
     
+    height: 120px;
+}
+.home ul li{
+    padding: 10px;
+    font-weight: 800;
+    margin-top: 5px;
+    border-radius: 10px;
+    
+    
+}
+.home a{
+    padding-right: 10px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}
+.home ul li:hover{
+    background-color: rgb(33,33,33);
+
 }
