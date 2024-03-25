@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin: 0;
+    
+}
+.container{
+    width: 30%;
+    height: auto;
+    
+    background-color: rgb(9, 9, 9);
+
+}
+.block{
+     height: 40px;
+     font-size: 20px;
+     left: 10px;
+     top: 10px;
+     margin-left: 10px;
+     position: sticky;
+     position: relative;
+     
+ i{
+    margin-top: 10px;
+ }  
+
+}
+#youtube{
+    color: red;
+    position: relative;
+    padding: 20px;
+    font-size: 30px;
+    bottom: 3px;
+}
+
+#malai{
+    color: white;
+    position:relative;
+    padding: 10px;
+    font-size: 25px;
+    bottom: 5px;
+    
+}
+.k{
+   padding: 0px;
+   overflow-y: scroll;
+   s
+   height: 1020px;
+   margin-top: 40px;
+
+   
+}
+.k ul{
+
+   
+}
+.k ul li{
+    padding: 20px;
+    
+}
